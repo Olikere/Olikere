@@ -11,21 +11,21 @@
 <div>
 <h3>♦️ Technologies & Languages </h3><br>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FF0000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-FF0000?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-FF0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-FF0000?style=for-the-badge&logo=powershell&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-FF0000?style=for-the-badge&logo=assembly&logoColor=white)
 </div>
 
 ##
 <h3> ♦️ Other Skills</h3> <br>
 
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FECE00?style=for-the-badge&logo=davinci-resolve&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FF0000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-FF0000?style=for-the-badge&logo=blender&logoColor=white)
 
 ##
 
