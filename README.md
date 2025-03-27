@@ -20,6 +20,8 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
 
+##
+
 ## 🎨 Other Skills  
 
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FECE00?style=for-the-badge&logo=davinci-resolve&logoColor=black)
