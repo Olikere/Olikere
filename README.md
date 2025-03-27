@@ -10,7 +10,7 @@
 ##
 
 <div>
-<h3>🚀Technologies & Languages </h3><br>
+<h3>♦️ Technologies & Languages </h3><br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -23,7 +23,7 @@
 </div>
 
 ##
-<h3> 🎨 Other Skills</h3> <br>
+<h3> ♦️ Other Skills</h3> <br>
 
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FECE00?style=for-the-badge&logo=davinci-resolve&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
