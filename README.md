@@ -22,6 +22,7 @@
 ![tcpdump](https://img.shields.io/badge/tcpdump-FF0000?style=for-the-badge&logo=gnu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
