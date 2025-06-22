@@ -21,6 +21,8 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-FF0000?style=for-the-badge&logo=wireshark&logoColor=white)
 ![tcpdump](https://img.shields.io/badge/tcpdump-FF0000?style=for-the-badge&logo=gnu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=white)
+
 </div>
 
 ##
