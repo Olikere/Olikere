@@ -6,8 +6,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Olikere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olikere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="150" alt="languages graph"  />
+  
 </div>
-
 
 ##
 
@@ -36,4 +36,6 @@
 ![Blender](https://img.shields.io/badge/Blender-FF0000?style=for-the-badge&logo=blender&logoColor=white)
 
 ##
+
+![Profile Views](https://komarev.com/ghpvc/?username=Olikere&label=Views&color=green&style=flat&abbreviated=true)
 
