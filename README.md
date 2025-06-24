@@ -37,5 +37,5 @@
 
 ##
 
-![Profile Views](https://komarev.com/ghpvc/?username=Olikere&label=Views&color=green&style=flat&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Olikere&label=Views&color=red&style=flat&abbreviated=true)
 
