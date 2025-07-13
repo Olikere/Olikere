@@ -16,6 +16,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FF0000?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-FF0000?style=for-the-badge&logo=windows&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-FF0000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-FF0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
