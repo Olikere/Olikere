@@ -1,8 +1,16 @@
+<div align="center">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70E0E&width=435&lines=+++++++++You+have+been+hacked!+%F0%9F%9A%A8" alt="Typing SVG" /></a>
+
+</div>
+
 
 <div align="center">
   <img src="https://github.com/Olikere/Olikere/blob/main/120087.gif?raw=true" alt="GIF animado" />
 </div>
+
 <br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Olikere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olikere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="150" alt="languages graph"  />
