@@ -4,12 +4,13 @@
 
 </div>
 
-
 <div align="center">
   <img src="https://github.com/Olikere/Olikere/blob/main/120087.gif?raw=true" alt="GIF animado" />
 </div>
 
 <br>
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Olikere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -44,7 +45,11 @@
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FF0000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-FF0000?style=for-the-badge&logo=blender&logoColor=white)
 
+
+
+
 ##
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Olikere&label=Views&color=red&style=flat&abbreviated=true)
+
 
