@@ -12,11 +12,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olikere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olikere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="150" alt="languages graph"  />
-  
-</div>
+
 
 ##
 
@@ -40,13 +36,39 @@
 </div>
 
 ##
+<div>
 <h3> ♦️ Other Skills</h3> <br>
 
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FF0000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-FF0000?style=for-the-badge&logo=blender&logoColor=white)
+</div>
+
+##
+
+<h3> ♦️ GitHub Stats </h3>
+
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Olikere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olikere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="200" alt="languages graph"  />
+
+</div>
+
+##
+
+<h3>♦️ Connect with Me </h3>
+<br>
+
+<p>
+  <a href="https://www.linkedin.com/in/olisec/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Olikere" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 
-
+</div>
 
 ##
 
