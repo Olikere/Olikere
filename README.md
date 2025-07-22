@@ -11,8 +11,15 @@
 <br>
 </div>
 
+##
 
+<h3> ♦️ GitHub Stats </h3>
 
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Olikere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olikere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="200" alt="languages graph"  />
+
+</div>
 
 ##
 
@@ -45,15 +52,6 @@
 
 ##
 
-<h3> ♦️ GitHub Stats </h3>
-
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Olikere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olikere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="200" alt="languages graph"  />
-
-</div>
-
-##
 
 <div>
 <h3>♦️ Connect with Me </h3>
