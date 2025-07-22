@@ -55,14 +55,14 @@
 
 ##
 
+<div>
 <h3>♦️ Connect with Me </h3>
 <br>
 
-<p>
+<p style="display: inline-flex; gap: 10px;>
   <a href="https://www.linkedin.com/in/olisec/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Olikere" target="_blank">
+  </a><a href="https://github.com/Olikere" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
