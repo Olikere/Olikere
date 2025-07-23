@@ -45,7 +45,7 @@
 ##
 <div>
 <h3> ♦️ Other Skills</h3> <br>
-
+  
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FF0000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-FF0000?style=for-the-badge&logo=blender&logoColor=white)
 </div>
@@ -57,13 +57,8 @@
 <h3>♦️ Connect with Me </h3>
 <br>
 
-<p style="display: inline-flex; gap: 10px;>
-  <a href="https://www.linkedin.com/in/olisec/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a><a href="https://github.com/Olikere" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olisec/) &nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Olikere)
 
 
 </div>
