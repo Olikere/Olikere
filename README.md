@@ -69,6 +69,7 @@
 </div>
 
 ##
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Olikere&label=Views&color=red&style=flat&abbreviated=true)
 
