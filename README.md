@@ -52,7 +52,15 @@
 
 ##
 
+<div>
+<h3> ♦️ CTF & Code Challenges </h3><br>
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Olikere)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/Olikere)
+[![HackerRank](https://img.shields.io/badge/HackerRank-FF0000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/olikereti)
+</div>
+
+##
 <div>
 <h3>♦️ Connect with Me </h3>
 <br>
