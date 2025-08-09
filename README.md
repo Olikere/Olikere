@@ -4,8 +4,12 @@
 
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github.com/Olikere/Olikere/blob/main/120087.gif?raw=true" alt="GIF animado" />
+
+
 </div>
 
 <br>
@@ -73,7 +77,11 @@
 
 ##
 <br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Olikere&label=Profile+Views&color=red&style=flat-square&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Olikere?label=Followers&color=red&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Olikere?label=Stars&color=red&style=flat-square" alt="Stars" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Olikere&label=Views&color=red&style=flat&abbreviated=true)
+  
 
 
