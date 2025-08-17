@@ -61,14 +61,6 @@
 </div>
 
 ##
-<div>
-<h3> ♦️ Other Skills</h3> <br>
-  
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FF0000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-FF0000?style=for-the-badge&logo=blender&logoColor=white)
-</div>
-
-##
 
 <div>
 <h3> ♦️ CTF & Code Challenges </h3><br>
@@ -79,6 +71,16 @@
 </div>
 
 ##
+
+<div>
+<h3> ♦️ Other Skills</h3> <br>
+  
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FF0000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-FF0000?style=for-the-badge&logo=blender&logoColor=white)
+</div>
+
+##
+
 <div>
 <h3>♦️ Connect with Me </h3>
 <br>
