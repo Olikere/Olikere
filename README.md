@@ -4,10 +4,8 @@
 
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://github.com/Olikere/Olikere/blob/main/120087.gif?raw=true" alt="GIF animado" />
+
 
 
 </div>
