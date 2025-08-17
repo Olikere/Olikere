@@ -4,10 +4,6 @@
 
 </div>
 
-
-
-
-
 </div>
 
 <br>
@@ -28,19 +24,39 @@
 <div>
 <h3>♦️ Technologies & Languages </h3><br>
 
+<b>• Systems:</b><br>
+  
 ![Linux](https://img.shields.io/badge/Linux-FF0000?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-FF0000?style=for-the-badge&logo=windows&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-FF0000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)
+
+
+<b>• Languages</b>
+<br>
+<br>
+<i>Main</i>:
+<br>
+
 ![C](https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-FF0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-FF0000?style=for-the-badge&logo=powershell&logoColor=white)
+
+
+<i>Familiar With</i>:
+
+![Rust](https://img.shields.io/badge/Rust-FF0000?style=for-the-badge&logo=rust&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-FF0000?style=for-the-badge&logo=assembly&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-FF0000?style=for-the-badge&logo=wireshark&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-FF0000?style=for-the-badge&logo=gnu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-FF0000?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white)
+
+<b>• Network Tools:
+
+![tcpdump](https://img.shields.io/badge/tcpdump-FF0000?style=for-the-badge&logo=gnu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-FF0000?style=for-the-badge&logo=wireshark&logoColor=white)
+
+<b>• Others:</b><br>
+
+![Docker](https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
