@@ -7,6 +7,9 @@
 </div>
 
 <div >
+  <!-- GIF no canto superior direito -->
+<img align="right" alt="GIF" src="https://github.com/Olikere/images/blob/main/void.gif" width="150" />
+
   <h3>💢 About Me </h3>
 
 ♦️ **Math** background  
