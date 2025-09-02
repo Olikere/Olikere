@@ -9,10 +9,10 @@
 <div >
   <h3>💢 About Me </h3>
 
-♦️ Math background  
-♦️ Learning Cybersecurity  
-♦️ Interested in Penetration Testing & Ethical Hacking  
-♦️ Always curious and improving my skills 
+♦️ **Math** background  
+♦️ Learning **Cybersecurity**  
+♦️ Interested in **Penetration Testing** & **Ethical Hacking**  
+♦️ **Always curious and improving my skills**
 </div>
 </div>
 
