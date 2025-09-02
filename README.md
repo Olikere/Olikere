@@ -3,14 +3,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70909&width=435&lines=Keep+learning!+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4" alt="Typing SVG" /></a>
 </div>
 
+##
 </div>
 
-<br>
+<div >
+  <h3>💢 About Me </h3>
+
+♦️ Math background  
+♦️ Learning Cybersecurity  
+♦️ Interested in Penetration Testing & Ethical Hacking  
+♦️ Always curious and improving my skills 
+</div>
 </div>
 
 ##
 
-<h3> ♦️ GitHub Analytics </h3>
+<h3> 💢 GitHub Analytics </h3>
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=Olikere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -21,23 +29,7 @@
 ##
 
 <div>
-<h3>♦️ Technologies & Languages </h3><br>
-
-![Linux](https://img.shields.io/badge/Linux-FF0000?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-FF0000?style=for-the-badge&logo=windows&logoColor=white)
-![C](https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-FF0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-FF0000?style=for-the-badge&logo=gnu&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-FF0000?style=for-the-badge&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-##
-
-<div>
-<h3> ♦️ CTF & Code Challenges </h3><br>
+<h3> 💢 CTF & Code Challenges </h3><br>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Olikere)
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/Olikere)
@@ -47,16 +39,7 @@
 ##
 
 <div>
-<h3> ♦️ Other Skills</h3> <br>
-  
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FF0000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-FF0000?style=for-the-badge&logo=blender&logoColor=white)
-</div>
-
-##
-
-<div>
-<h3>♦️ Connect with Me </h3>
+<h3>💢 Connect with Me </h3>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olisec/) &nbsp;&nbsp;
