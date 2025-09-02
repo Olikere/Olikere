@@ -8,8 +8,8 @@
 
 <div >
   <!-- GIF no canto superior direito -->
-<img align="right" alt="GIF" src="https://github.com/Olikere/images/blob/main/void.gif" width="150" />
-
+<img align="right" alt="GIF" src="https://github.com/Olikere/images/blob/main/void.gif" width="200" />
+<br>
   <h3>💢 About Me </h3>
 
 ♦️ **Math** background  
