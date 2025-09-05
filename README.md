@@ -23,7 +23,7 @@
 
 <h3> ⚫ GitHub Analytics </h3>
 
-<div>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=Olikere&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_red&hide_border=false&title_color=808080&text_color=808080&icon_color=ffffff&bg_color=000000&border_color=808080" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olikere&layout=compact&langs_count=5&theme=shadow_red&hide_border=false&title_color=808080&text_color=808080&bg_color=000000&border_color=808080" height="200" alt="languages graph"  />
 </div>
