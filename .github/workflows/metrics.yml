@@ -1,11 +1,19 @@
-# ... (O cabeçalho do seu job e steps)
+name: Metrics
 
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
       - uses: lowlighter/metrics@latest
         with:
           user: Olikere
           token: ${{ secrets.GH_TOKEN }}
 
-          # Configurações do Plugin
           base: metadata
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
@@ -13,9 +21,8 @@
           plugin_isocalendar: no
           plugin_habits: no
 
-          # Configurações do Tema (Novas)
           config_octocat: yes
           config_padding: 0
-          config_base: onedark # O tema para cores escuras
+          config_base: onedark
           config_timezone: America/Sao_Paulo
           output_dir: .
