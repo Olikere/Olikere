@@ -14,22 +14,19 @@ jobs:
           user: Olikere
           token: ${{ secrets.GH_TOKEN }}
 
-          # 🚨 NOVO: Define um layout minimalista. Remove 'header', 'repositories' etc.
-          base: activity, metadata 
+          # 🚨 CHAVE: Define o layout como minimalista para remover a maioria dos blocos.
+          # Usar 'metadata' garante que apenas informações básicas (e plugins) sejam processadas.
+          base: metadata 
           
           # Plugins Ativos
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage # Mostra a barra e porcentagem
-
-          plugin_isocalendar: yes # Adiciona o calendário de contribuições (compacto)
-          plugin_isocalendar_duration: full-year
-
-          plugin_habits: yes # 🚨 NOVO: Adiciona a atividade por hora e dia da semana
-          plugin_habits_from: 200 # Considera commits dos últimos 200 dias
-          plugin_habits_days: 14 # Analisa a atividade dos últimos 14 dias
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-
-          # Configurações de Aparência (Opcional, mas recomendado)
+          plugin_languages_details: bytes-size, percentage # Mostra a barra, tamanho e porcentagem
+          plugin_languages_threshold: 0% # Inclui todas as linguagens (ou aumente a porcentagem, ex: 1%)
+          
+          # ❌ Desative os plugins grandes para evitar que apareçam:
+          plugin_isocalendar: no
+          plugin_habits: no
+          
+          # Configurações de Aparência (Recomendado)
           config_timezone: America/Sao_Paulo
           output_dir: .
