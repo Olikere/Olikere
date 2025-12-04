@@ -1,32 +1,24 @@
-name: Generate Metrics
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
+- uses: lowlighter/metrics@latest
         with:
           user: Olikere
           token: ${{ secrets.GH_TOKEN }}
 
-          # 🚨 CHAVE: Define o layout como minimalista para remover a maioria dos blocos.
-          # Usar 'metadata' garante que apenas informações básicas (e plugins) sejam processadas.
+          # Configuração para focar apenas nas linguagens
           base: metadata 
-          
-          # Plugins Ativos
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage # Mostra a barra, tamanho e porcentagem
-          plugin_languages_threshold: 0% # Inclui todas as linguagens (ou aumente a porcentagem, ex: 1%)
-          
-          # ❌ Desative os plugins grandes para evitar que apareçam:
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_threshold: 0%
           plugin_isocalendar: no
           plugin_habits: no
+
+          # 💡 NOVO: Defina o tema escuro para harmonizar as cores
+          config_octocat: yes # Mantém o ícone do octocat no header (opcional)
+          config_padding: 0 # Remove padding em volta (opcional)
           
-          # Configurações de Aparência (Recomendado)
+          # Escolha um tema escuro. Tente 'onedark', 'dark' ou 'gruvbox'.
+          # 👇👇👇
+          config_base: onedark 
+          # 👆👆👆
+
           config_timezone: America/Sao_Paulo
           output_dir: .
