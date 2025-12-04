@@ -2,7 +2,7 @@ name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda a cada 24 horas (meia-noite UTC)
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,21 +11,25 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Sua conta GitHub e o token de acesso (o Secret criado)
           user: Olikere
           token: ${{ secrets.GH_TOKEN }}
 
-          # Configurações básicas
-          config_timezone: America/Sao_Paulo 
-          template: classic
-          base: header, activity, community, repositories, metadata
-          output_dir: .
+          # 🚨 NOVO: Define um layout minimalista. Remove 'header', 'repositories' etc.
+          base: activity, metadata 
           
-          # Plugins (o que você quer mostrar)
+          # Plugins Ativos
           plugin_languages: yes
-          plugin_languages_threshold: 0%
-          plugin_languages_limit: 8
-          plugin_languages_colors: github
-          
-          plugin_isocalendar: yes
+          plugin_languages_details: bytes-size, percentage # Mostra a barra e porcentagem
+
+          plugin_isocalendar: yes # Adiciona o calendário de contribuições (compacto)
           plugin_isocalendar_duration: full-year
+
+          plugin_habits: yes # 🚨 NOVO: Adiciona a atividade por hora e dia da semana
+          plugin_habits_from: 200 # Considera commits dos últimos 200 dias
+          plugin_habits_days: 14 # Analisa a atividade dos últimos 14 dias
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          # Configurações de Aparência (Opcional, mas recomendado)
+          config_timezone: America/Sao_Paulo
+          output_dir: .
