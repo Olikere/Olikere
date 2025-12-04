@@ -21,11 +21,9 @@
 
 ##
 
-<h3> ⚫ GitHub Analytics </h3>
+<h3> ⚫ Technologies, Languages and Tools </h3>
 
-<div align=center>
-<img src="github-metrics.svg" alt="Metrics" width="60%">
-</div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ##
 
