@@ -49,7 +49,8 @@ jobs:
           config_padding: 0
           
           # 👇 Mudança: Ordenação para APENAS a barra de linguagens
-          config_order: [languages.used]
+          config_order: 
+             -[languages.used]
             
             
           config_timezone: America/Sao_Paulo
