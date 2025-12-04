@@ -1,9 +1,10 @@
 - uses: lowlighter/metrics@latest
-        with:
+        # O 'with:' deve estar recuado corretamente abaixo de '- uses:'
+        with: 
           user: Olikere
           token: ${{ secrets.GH_TOKEN }}
 
-          # Configuração para focar apenas nas linguagens
+          # Configurações do Plugin
           base: metadata 
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
@@ -11,14 +12,9 @@
           plugin_isocalendar: no
           plugin_habits: no
 
-          # 💡 NOVO: Defina o tema escuro para harmonizar as cores
-          config_octocat: yes # Mantém o ícone do octocat no header (opcional)
-          config_padding: 0 # Remove padding em volta (opcional)
-          
-          # Escolha um tema escuro. Tente 'onedark', 'dark' ou 'gruvbox'.
-          # 👇👇👇
+          # Configurações do Tema (Novas)
+          config_octocat: yes 
+          config_padding: 0 
           config_base: onedark 
-          # 👆👆👆
-
           config_timezone: America/Sao_Paulo
           output_dir: .
