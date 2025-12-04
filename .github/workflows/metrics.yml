@@ -1,28 +1,33 @@
-name: Metrics
+name: GitHub Metrics
 
 on:
+  # Atualiza automaticamente todo dia às 16h (horário do Brasil)
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: "0 19 * * *"   # 19 UTC = 16h Brasil (America/Sao_Paulo)
+  workflow_dispatch:        # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # --- Configurações básicas ---
           user: Olikere
           token: ${{ secrets.GH_TOKEN }}
 
+          # --- Seção base ---
           base: metadata
+
+          # --- Plugin: Linguagens ---
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_threshold: 0%
-          plugin_isocalendar: no
-          plugin_habits: no
 
-          config_octocat: yes
-          config_padding: 0
+          # --- Tema OneDark ---
           config_base: onedark
           config_timezone: America/Sao_Paulo
+
+          # --- Saída ---
           output_dir: .
