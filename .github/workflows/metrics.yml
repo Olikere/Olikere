@@ -17,30 +17,27 @@ jobs:
           # ----------------------
           # SEÇÃO BASE MINIMALISTA
           # ----------------------
-          base: header          # só nome, avatar e info mínima
-          base_indepth: no      # sem textos extras
-          base_hireable: no     # remove badge de "hireable"
+          base: header
+          base_indepth: no
+          base_hireable: no
           repositories_forks: no
 
           # ----------------------
           # LINGUAGENS (modo clean)
           # ----------------------
           plugin_languages: yes
-          plugin_languages_details: percentage      # remove poluição
-          plugin_languages_limit: 6                 # só as principais
-          plugin_languages_threshold: 1%            # ignora irrelevantes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 1%
           plugin_languages_sections: most-used
-          plugin_languages_indepth: no              # modo reduzido
-          plugin_languages_categories: programming  # remove configs, docs etc.
+          plugin_languages_indepth: no
+          plugin_languages_categories: programming
 
           # ----------------------
           # VISUAL (MINIMALISTA)
           # ----------------------
           config_base: onedark
-          config_padding: 0                         # remove espaços grandes
-          config_order:                             # ordenação limpa
-            - base.header
-            - languages
-
+          config_padding: 0
           config_timezone: America/Sao_Paulo
+
           output_dir: .
