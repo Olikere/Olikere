@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # ----------------------
-          # SEÇÃO BASE MINIMALISTA
+          # SEÇÃO BASE
           # ----------------------
           base: header
           base_indepth: no
@@ -23,21 +23,34 @@ jobs:
           repositories_forks: no
 
           # ----------------------
-          # LINGUAGENS (modo clean)
+          # LINGUAGENS (APENAS BARRAS E % - O FOCO)
           # ----------------------
           plugin_languages: yes
-          plugin_languages_details: percentage
+          plugin_languages_details: percentage # Apenas porcentagem
           plugin_languages_limit: 6
           plugin_languages_threshold: 1%
-          plugin_languages_sections: most-used
+          
+          # 👇 Mudança: Mostra apenas a barra e a legenda
+          plugin_languages_sections: used 
+          
           plugin_languages_indepth: no
           plugin_languages_categories: programming
 
           # ----------------------
-          # VISUAL (MINIMALISTA)
+          # VISUAL (PRETO E BRANCO)
           # ----------------------
+          
+          # Tentativa 1: Tema escuro para texto e fundo
           config_base: onedark
+          
+          # Tentativa 2: Forçar cores das linguagens para tons de cinza/preto
+          colors_languages_colors: "#333333, #555555, #777777, #999999, #bbbbbb, #dddddd"
+          
           config_padding: 0
+          
+          # 👇 Mudança: Ordenação para APENAS a barra de linguagens
+          config_order:
+            - languages.used 
+            
           config_timezone: America/Sao_Paulo
-
           output_dir: .
