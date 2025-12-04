@@ -24,7 +24,7 @@
 <h3> ⚫ GitHub Analytics </h3>
 
 <div align=center>
-<img src="github-metrics.svg" alt="Metrics" width="50%">
+<img src="github-metrics.svg" alt="Metrics" width="60%">
 </div>
 
 ##
