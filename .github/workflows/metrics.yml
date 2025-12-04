@@ -15,24 +15,18 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # ----------------------
-          # SEÇÃO BASE
+          # SEÇÃO BASE (Removido para focar 100% nas linguagens)
           # ----------------------
-          base: header
-          base_indepth: no
-          base_hireable: no
-          repositories_forks: no
+          base: no # Desativa a base padrão para focar apenas nos plugins
 
           # ----------------------
           # LINGUAGENS (APENAS BARRAS E % - O FOCO)
           # ----------------------
           plugin_languages: yes
-          plugin_languages_details: percentage # Apenas porcentagem
+          plugin_languages_details: percentage
           plugin_languages_limit: 6
           plugin_languages_threshold: 1%
-          
-          # 👇 Mudança: Mostra apenas a barra e a legenda
-          plugin_languages_sections: used 
-          
+          plugin_languages_sections: used
           plugin_languages_indepth: no
           plugin_languages_categories: programming
 
@@ -40,17 +34,15 @@ jobs:
           # VISUAL (PRETO E BRANCO)
           # ----------------------
           
-          # Tentativa 1: Tema escuro para texto e fundo
           config_base: onedark
           
-          # Tentativa 2: Forçar cores das linguagens para tons de cinza/preto
+          # Força cores das linguagens para tons de cinza/preto
           colors_languages_colors: "#333333, #555555, #777777, #999999, #bbbbbb, #dddddd"
           
           config_padding: 0
           
-          # 👇 Mudança: Ordenação para APENAS a barra de linguagens
-          config_order: languages.used
-            
-            
+          # CORREÇÃO: Sintaxe de lista em linha para evitar erro de indentação
+          config_order: [languages.used]
+          
           config_timezone: America/Sao_Paulo
           output_dir: .
