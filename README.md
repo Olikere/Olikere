@@ -33,6 +33,18 @@
 ##
 
 <div>
+<h3> ⚫ Featured Projects </h3> 
+
+⚡[EXPLOITS](https://github.com/Olikere/EXPLOITS) Security research and proof-of-concept scripts for educational purposes
+ <br>
+⚡[HackerRank](https://github.com/Olikere/HackerRank) Solutions for various competitive programming challenges and algorithms
+ <br>
+⚡[Project Euler](https://github.com/Olikere/Project-Euler) Solving complex mathematical challenges through pure mathematical theory and analytical reasoning
+
+</div>
+
+
+<div>
 <h3> ⚫ CTF & Code Challenges </h3><br>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Olikere)
