@@ -31,7 +31,15 @@
 </div>
 
 ##
+<div>
+<h3> ⚫ CTF & Code Challenges </h3><br>
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Olikere)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1882481)
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/olikereti)
+</div>
+
+##
 <div>
 <h3> ⚫ Featured Projects </h3> 
 
@@ -42,15 +50,7 @@
 </div>
 
 
-<div>
-<h3> ⚫ CTF & Code Challenges </h3><br>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Olikere)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1882481)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/olikereti)
-</div>
-
-##
 
 <div>
 <h3>⚫ Connect with Me </h3>
