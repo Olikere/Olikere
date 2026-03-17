@@ -13,7 +13,7 @@
 <h3>⚫ About Me </h3>
 
 ⚡ **Math** background  
-⚡ **Cybersecurity** enthusiast
+⚡ **Cybersecurity** enthusiast <br>
 ⚡ **Always curious and improving my skills**
 
 </div>
