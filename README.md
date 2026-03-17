@@ -13,9 +13,9 @@
 <h3>⚫ About Me </h3>
 
 ⚡ **Math** background  
-⚡ Learning **Cybersecurity**  
-⚡ Interested in **Penetration Testing** & **Ethical Hacking**  
+⚡ **Cybersecurity** enthusiast
 ⚡ **Always curious and improving my skills**
+
 </div>
 </div>
 
