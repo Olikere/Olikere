@@ -34,11 +34,10 @@
 <div>
 <h3> ⚫ CTF & Code Challenges </h3><br>
 
-
-| Platform | Description |
-| :--- | :--- |
-| **[HackerRank](https://github.com/Olikere/HackerRank)** | Solutions for various competitive programming challenges and algorithms |
-| **[Project Euler](https://github.com/Olikere/Project-Euler)** | Solving complex mathematical challenges through pure mathematical theory and analytical reasoning |
+| Platform | Category | Description |
+| :--- | :--- | :--- |
+| **[HackerRank](https://github.com/Olikere/HackerRank)** | `Algorithms` | Solutions for various competitive programming challenges and algorithms |
+| **[Project Euler](https://github.com/Olikere/Project-Euler)** | `Mathematics` | Solving complex mathematical challenges through pure mathematical theory and analytical reasoning |
 
 <br>
 
