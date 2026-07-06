@@ -34,6 +34,14 @@
 <div>
 <h3> ⚫ CTF & Code Challenges </h3><br>
 
+
+| Platform | Description |
+| :--- | :--- |
+| **[HackerRank](https://github.com/Olikere/HackerRank)** | Solutions for various competitive programming challenges and algorithms |
+| **[Project Euler](https://github.com/Olikere/Project-Euler)** | Solving complex mathematical challenges through pure mathematical theory and analytical reasoning |
+
+<br>
+
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Olikere)
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1882481)
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/olikereti)
@@ -41,11 +49,14 @@
 
 ##
 <div>
-<h3> ⚫ Featured Projects </h3> 
+<h3> ⚫ Featured Projects </h3> <br>
 
-- [EXPLOITS](https://github.com/Olikere/EXPLOITS) Security research and proof-of-concept scripts for educational purposes
-- [HackerRank](https://github.com/Olikere/HackerRank) Solutions for various competitive programming challenges and algorithms
-- [Project Euler](https://github.com/Olikere/Project-Euler) Solving complex mathematical challenges through pure mathematical theory and analytical reasoning
+
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| **[EXPLOITS](https://github.com/Olikere/EXPLOITS)** | `Cybersecurity` | Security research and proof-of-concept scripts for educational purposes. |
+| **[Vencendo-o-Firewall](https://github.com/Olikere/Vencendo-o-Firewall)** | `Cybersecurity` | An interactive Bash script for managing iptables rules, ideal for network learning, offensive security labs, and hardening. |
+| *Coming soon...* | `Data Science` | Projects involving statistical analysis, mathematics, and data science. |
 
 </div>
 
