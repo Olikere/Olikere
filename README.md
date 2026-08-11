@@ -74,6 +74,16 @@
 </div>
 
 ##
+
+
+<div>
+  <h3>⚫ Support Me</h3>
+  <br>
+
+  [![Support Me](https://img.shields.io/badge/Support_Me-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://bit.ly/3iLjGaj)
+</div>
+
+##
 <br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Olikere&label=Profile+Views&color=808080&style=flat-square&abbreviated=true" alt="Profile Views" />
