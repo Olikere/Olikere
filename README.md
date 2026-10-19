@@ -5,11 +5,8 @@
 </div>
 
 ##
-</div>
 
-<div >
-
-
+<div>
 <h3>⚫ About Me </h3>
 
 ⚡ **Math** background  
@@ -17,13 +14,12 @@
 ⚡ **Always curious and improving my skills**
 
 </div>
-</div>
 
 ##
 
+<div>
 <h3> ⚫ Technologies, Languages and Tools </h3>
 <br>
-<div>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -32,8 +28,22 @@
 </div>
 
 ##
+
 <div>
-<h3> ⚫ CTF & Code Challenges </h3><br>
+<h3> ⚫ Featured Projects </h3> <br>
+
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| **[Vencendo-o-Firewall](https://github.com/Olikere/Vencendo-o-Firewall)** | `Cybersecurity` | An interactive Bash script for managing iptables rules, ideal for network learning, offensive security labs, and hardening. |
+| **[EXPLOITS](https://github.com/Olikere/EXPLOITS)** | `Cybersecurity` | Security research and proof-of-concept scripts for educational purposes. |
+| **[network-traffic-analysis](https://github.com/Olikere/network-traffic-analysis)** | `Network Forensics` | Analysis of real-world malware PCAPs: traffic patterns, IOCs and behavior. |
+
+</div>
+
+##
+
+<div>
+<h3> ⚫ Math & Algorithms </h3><br>
 
 | Platform | Category | Description |
 | :--- | :--- | :--- |
@@ -42,27 +52,39 @@
 
 <br>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Olikere)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1882481)
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/olikereti)
 </div>
 
 ##
+
 <div>
-<h3> ⚫ Featured Projects </h3> <br>
+<h3> ⚫ Data Science </h3><br>
 
-
-| Project | Category | Description |
+| Repository | Category | Description |
 | :--- | :--- | :--- |
-| **[EXPLOITS](https://github.com/Olikere/EXPLOITS)** | `Cybersecurity` | Security research and proof-of-concept scripts for educational purposes. |
-| **[Vencendo-o-Firewall](https://github.com/Olikere/Vencendo-o-Firewall)** | `Cybersecurity` | An interactive Bash script for managing iptables rules, ideal for network learning, offensive security labs, and hardening. |
-| *Coming soon...* | `Data Science` | Projects involving statistical analysis, mathematics, and data science. |
+| **[sql-data-analysis](https://github.com/Olikere/sql-data-analysis)** | `SQL & Data Analysis` | SQL queries and exploratory analysis on real datasets: joins, aggregations, window functions and insights drawn from the data. |
 
 </div>
 
-
 ##
 
+<div>
+<h3> ⚫ Security Labs & Research </h3> <br>
+
+| Repository | Category | Description |
+| :--- | :--- | :--- |
+| **[network-traffic-analysis](https://github.com/Olikere/network-traffic-analysis)** | `Network Forensics` | PCAPs from sources like malware-traffic-analysis.net, with write-ups, IOCs and Wireshark notes. |
+| **[crypto](https://github.com/Olikere/crypto)** | `Cryptography` | Challenge solutions and attack write-ups: CryptoHack, Cryptopals and attacks (RSA, padding oracle, etc.). |
+| **[osint](https://github.com/Olikere/osint)** | `OSINT` | Investigations, methodologies and challenge write-ups using open-source intelligence. |
+| **[reverse-engineering](https://github.com/Olikere/reverse-engineering)** | `Reverse Engineering` | Binary analysis, crackmes and malware reversing, with notes on tools and techniques. |
+
+<br>
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Olikere)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1882481)
+</div>
+
+##
 
 <div>
 <h3>⚫ Connect with Me </h3>
@@ -74,7 +96,6 @@
 </div>
 
 ##
-
 
 <div>
   <h3>⚫ Support Me</h3>
@@ -90,7 +111,3 @@
   <img src="https://img.shields.io/github/followers/Olikere?label=Followers&color=808080&style=flat-square" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Olikere?label=Stars&color=808080&style=flat-square" alt="Stars" />
 </div>
-
-  
-
-
