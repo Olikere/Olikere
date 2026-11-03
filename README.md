@@ -9,8 +9,8 @@
 <div>
 <h3>⚫ About Me </h3>
 
-⚡ **Mathematics** undergraduate (graduating soon)
-⚡ Aspiring **Data Scientist** & **Data Analyst**
+⚡ **Mathematics** undergraduate (graduating soon)<br>
+⚡ Aspiring **Data Scientist** & **Data Analyst**<br>
 ⚡ **Cybersecurity** enthusiast <br>
 ⚡ **Always curious and improving my skills**
 
