@@ -37,7 +37,7 @@
 | :--- | :--- | :--- |
 | **[Vencendo-o-Firewall](https://github.com/Olikere/Vencendo-o-Firewall)** | `Cybersecurity` | An interactive Bash script for managing iptables rules, ideal for network learning, offensive security labs, and hardening. |
 | **[EXPLOITS](https://github.com/Olikere/EXPLOITS)** | `Cybersecurity` | Security research and proof-of-concept scripts for educational purposes. |
-| **[network-traffic-analysis](https://github.com/Olikere/network-traffic-analysis)** | `Network Forensics` | Analysis of real-world malware PCAPs: traffic patterns, IOCs and behavior. |
+| **[sql-data-analysis](https://github.com/Olikere/sql-data-analysis)** | `SQL & Data Analysis` | SQL queries and exploratory analysis on real datasets: joins, aggregations, window functions and insights drawn from the data. |
 
 </div>
 
