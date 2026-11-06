@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </div>
 
 ##
