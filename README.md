@@ -21,12 +21,19 @@
 <div>
 <h3> ⚫ Technologies, Languages and Tools </h3>
 <br>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-<img src="https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+<!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  
+  <!-- Databases & Query -->
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  
+  <!-- Tools, Systems & Markup -->  
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+</div>
 </div>
 
 ##
@@ -60,7 +67,7 @@
 ##
 
 <div>
-<h3> ⚫ Data Science </h3><br>
+<h3> ⚫ Data Science & Data Analytics </h3><br>
 
 | Repository | Category | Description |
 | :--- | :--- | :--- |
@@ -83,7 +90,7 @@
 <br>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Olikere)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1882481)
+[![CryptoHack](https://img.shields.io/badge/CryptoHack-000000?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://cryptohack.org/user/olikere15/)
 </div>
 
 ##
